@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#unique_one{
+    color:blue;
+    font-size:36px;
+}
+#unique_two{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+.unique_three{
+    font-size:24px;
+}
